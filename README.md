@@ -57,6 +57,9 @@ ________________________________________________________________________________
 <a href=https://www.linkedin.com/company/kiit-elabs/>
    <img src=https://img.shields.io/badge/E_Labs-Coordinator-red>
 </a>
+<a href=https://www.linkedin.com/company/kiit-e-cell/>
+   <img src=https://img.shields.io/badge/E_Cell-DevOps-blue>
+</a>
 <a href=https://www.facebook.com/mozillabbsr>
    <img src=https://img.shields.io/badge/MozillaClubBbsr-Developer-brightgreen>
 </a>
