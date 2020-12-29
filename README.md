@@ -43,7 +43,7 @@ ________________________________________________________________________________
 [![Twitter Badge](http://img.shields.io/badge/-@avik6028-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/avik6028)](https://twitter.com/avik6028)
 [![Linkedin Badge](https://img.shields.io/badge/-Avik%20Kundu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/avik-kundu-0b837715b/)](https://www.linkedin.com/in/avik-kundu-0b837715b/)
 [![Instagram Badge](https://img.shields.io/badge/avik6028-blue?style=social&logo=Instagram&link=https://www.instagram.com/avik6028/)](https://www.instagram.com/avik6028/)
-[![Medium Badge](https://img.shields.io/badge/@avik6028-blue?style=social&logo=Medium&link=https://avikkundu.medium.com/)](https://avikkundu.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/@avikkundu-blue?style=social&logo=Medium&link=https://avikkundu.medium.com/)](https://avikkundu.medium.com/)
 [![Youtube Badge](https://img.shields.io/badge/-Avik%20Kundu-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCglo4b_lugssHiPz9ZB4iiA?view_as=subscriber)](https://www.youtube.com/channel/UCglo4b_lugssHiPz9ZB4iiA?view_as=subscriber)
 [![Facebook Badge](https://img.shields.io/badge/-Avik%20Kundu-blue?style=social&logo=Facebook&link=https://www.facebook.com/avikonweb)](https://www.facebook.com/avikonweb)
 
