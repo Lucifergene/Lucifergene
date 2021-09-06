@@ -39,6 +39,12 @@ ________________________________________________________________________________
 
 #### **Connect with me** on `Twitter` for exciting updates, `Linkedin` for opportunities and `Instagram` for fun:
 ___________________________________________________________________________________________________________________________________
+
+### **Blog posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+___________________________________________________________________________________________________________________________________
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Lucifergene)](https://github.com/Lucifergene)
 [![Twitter Badge](http://img.shields.io/badge/-@avik6028-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/avik6028)](https://twitter.com/avik6028)
 [![Linkedin Badge](https://img.shields.io/badge/-Avik%20Kundu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/avik-kundu-0b837715b/)](https://www.linkedin.com/in/avik-kundu-0b837715b/)
