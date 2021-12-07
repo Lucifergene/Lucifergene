@@ -43,11 +43,11 @@ ________________________________________________________________________________
 ### **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [My Experience at Civo Hackathon 2021](https://avikkundu.medium.com/my-experience-at-civo-hackathon-2021-aa845e3fa5c2?source=rss-68ea0ef6e857------2)
 - [Building Serverless URL Shortener Service on AWS](https://avikkundu.medium.com/building-serverless-url-shortener-service-on-aws-e1662d015d70?source=rss-68ea0ef6e857------2)
 - [Automation with Ansible Tower Use Cases](https://avikkundu.medium.com/automation-with-ansible-tower-use-cases-5a95e005c207?source=rss-68ea0ef6e857------2)
-- [Automating Jenkins & Docker with Kubernetes](https://avikkundu.medium.com/automating-jenkins-docker-with-kubernetes-40673d3fb907?source=rss-68ea0ef6e857------2)
+- [Automating Jenkins &amp; Docker with Kubernetes](https://avikkundu.medium.com/automating-jenkins-docker-with-kubernetes-40673d3fb907?source=rss-68ea0ef6e857------2)
 - [Big Data — Technology or Problem ?](https://avikkundu.medium.com/big-data-technology-or-problem-eb04a2cbe52d?source=rss-68ea0ef6e857------2)
-- [Deploying WordPress with MySQL on Top of Google Cloud Platform](https://avikkundu.medium.com/deploying-wordpress-with-mysql-on-top-of-google-cloud-platform-eef335832b95?source=rss-68ea0ef6e857------2)
 <!-- BLOG-POST-LIST:END -->
 ___________________________________________________________________________________________________________________________________
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Lucifergene)](https://github.com/Lucifergene)
