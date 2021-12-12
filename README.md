@@ -1,5 +1,7 @@
 ### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
 This is **Avik Kundu**😊. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
+
+![](https://hit.yhype.me/github/profile?user_id=47265560)
 ___________________________________________________________________________________________________________________________________
 **I am a self driven and versatile individual with a strong interest in Development and passion for strategical development, public speaking, leadership activities and writing✍🏼. I am a music enthusiast as well and a Football Player⚽. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
 ___________________________________________________________________________________________________________________________________
