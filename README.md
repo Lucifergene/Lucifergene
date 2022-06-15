@@ -1,12 +1,46 @@
-### Hello Everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
-This is **Avik Kundu**😊. I am currently pursuing B.Tech at School of Computer Engineering, KIIT(Deemed to be University). I am looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
-![](https://hit.yhype.me/github/profile?user_id=47265560)
+<p align="center"> <h1 align="center"> Hi, I am Avik Kundu 👋</h1> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/avik-kundu-0b837715b/">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a>
+ <a href="https://twitter.com/avik6028">
+ <img src="http://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ </a>
+ <a href="https://www.instagram.com/avik6028/">
+ <img src="http://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white"/>
+ </a>
+ <a href="https://avikkundu.medium.com/">
+ <img src="http://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=medium&logoColor=white"/>
+ </a>
+ <a href="https://www.hackerrank.com/avik6028"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
+ <a href="https://www.facebook.com/avikonweb"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white"/> </a>
+  <a href="https://www.youtube.com/channel/UCglo4b_lugssHiPz9ZB4iiA?view_as=subscriber"><img src="https://img.shields.io/badge/-Youtube-c4302b?style=for-the-badge&logo=Youtube&logoColor=white"/> </a>
+<a href="mailto:avikkundu8d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Lucifergene&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22Lucifergene" /> </p>
+
+* Completed graduation from **KIIT University, Bhubaneswar** in 2022, in Computer Engineering.
+* Full Stack Developer with Devops and Cloud skills. Currently working at **Red Hat India** as Software Engineer.
+* Active member in AWS Community Builders and Microsoft Learn Ambassadors.
+* Love to give talks in Community events and workshops.
+* Looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
+
+***
+**⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%,">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=Lucifergene&show_icons=true&theme=vue&locale=en&hide_border=true" alt="Lucifergene" /></td>
+    <td>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifergene&theme=vue&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
+
 ___________________________________________________________________________________________________________________________________
-**I am a self driven and versatile individual with a strong interest in Development and passion for strategical development, public speaking, leadership activities and writing✍🏼. I am a music enthusiast as well and a Football Player⚽. I desire to make a positive impact on the people around me and hope to achieve this through personal projects, internships, hackathons and other experiences.**
-___________________________________________________________________________________________________________________________________
- I code for `Fun` in any language including:  
-| C/C++ | Python | JavaScript | Java | Dart | LateX | YAML | R
-| :---: | :---:  | :---: | :---: | :---: | :---: | :---: | :---: |
+### Languages I have coded in :
+
+| C/C++ | Python | JavaScript | Go | Java | Dart | LateX | YAML | R
+| :---: | :---:  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 ___________________________________________________________________________________________________________________________________
 ### Technologies & Frameworks I have worked with :
 
@@ -32,15 +66,6 @@ ________________________________________________________________________________
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/35045612?s=400&v=4"></code>
 ___________________________________________________________________________________________________________________________________
 
-I am <b>MLOps / DevOps / Hybrid-Cloud / Ansible Intern</b> at <b>LinuxWorld Informatics</b>, Docker Expert at IIEC,  Developer at <b>Mozilla Club Bbsr</b>, Researcher at <b>IoT Lab, KIIT</b> and a Writer at <b>Analytics Vidya</b> & <b>SuperDataScience</b>.
-___________________________________________________________________________________________________________________________________
-#### `Here's a little insight into what motivates me:`
-Whether we realize it or not, technology has impacted the way we live our lives. The knowledge and skills learned through the study of Computer Science has found applications in almost every job sector. Being a fan of interdisciplinary work, I want to apply the skills I learn in the classroom to create solutions and breakthroughs in fields like Healthcare, Consumer Goods, Education, Litigation, Finance, Transportation etc. My past research and internship experiences reflect this passion as I continue to explore the endless opportunities Computer Science has to offer.
-____________________________________________________________________________________________________________________________________
-
-#### **Connect with me** on `Twitter` for exciting updates, `Linkedin` for opportunities and `Instagram` for fun:
-___________________________________________________________________________________________________________________________________
-
 ### **Blog posts**
 
 <!-- BLOG-POST-LIST:START -->
@@ -51,43 +76,8 @@ ________________________________________________________________________________
 - [Big Data — Technology or Problem ?](https://avikkundu.medium.com/big-data-technology-or-problem-eb04a2cbe52d?source=rss-68ea0ef6e857------2)
 <!-- BLOG-POST-LIST:END -->
 ___________________________________________________________________________________________________________________________________
-[![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/Lucifergene)](https://github.com/Lucifergene)
-[![Twitter Badge](http://img.shields.io/badge/-@avik6028-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/avik6028)](https://twitter.com/avik6028)
-[![Linkedin Badge](https://img.shields.io/badge/-Avik%20Kundu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/avik-kundu-0b837715b/)](https://www.linkedin.com/in/avik-kundu-0b837715b/)
-[![Instagram Badge](https://img.shields.io/badge/avik6028-blue?style=social&logo=Instagram&link=https://www.instagram.com/avik6028/)](https://www.instagram.com/avik6028/)
-[![Medium Badge](https://img.shields.io/badge/@avikkundu-blue?style=social&logo=Medium&link=https://avikkundu.medium.com/)](https://avikkundu.medium.com/)
-[![Youtube Badge](https://img.shields.io/badge/-Avik%20Kundu-blue?style=social&logo=Youtube&link=https://www.youtube.com/channel/UCglo4b_lugssHiPz9ZB4iiA?view_as=subscriber)](https://www.youtube.com/channel/UCglo4b_lugssHiPz9ZB4iiA?view_as=subscriber)
-[![Facebook Badge](https://img.shields.io/badge/-Avik%20Kundu-blue?style=social&logo=Facebook&link=https://www.facebook.com/avikonweb)](https://www.facebook.com/avikonweb)
+<div align="center">
 
-![Avik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucifergene&show_icons=true&hide=["issues"]&theme=vue)
-___________________________________________________________________________________________________________________________________
-- 💬 Ask me about anything, I am happy to help anytime!
-- Trainer for various college workshops
-- Active participant in Hackathons & CTFs
-- Open Source enthusiast
+### Show some ❤️ by starring some of the repositories!
 
-<a href=https://www.linkedin.com/company/kiit-elabs/>
-   <img src=https://img.shields.io/badge/E_Labs-Coordinator-red>
-</a>
-<a href=https://www.linkedin.com/company/kiit-e-cell/>
-   <img src=https://img.shields.io/badge/E_Cell-DevOps-blue>
-</a>
-<a href=https://www.facebook.com/mozillabbsr>
-   <img src=https://img.shields.io/badge/MozillaClubBbsr-Developer-brightgreen>
-</a>
-<a href=https://www.linkedin.com/company/iotkiit>
-   <img src=https://img.shields.io/badge/IoT_Lab-Researcher-red>
-</a>
-<a href=http://www.linuxworldindia.org/>
-   <img src=https://img.shields.io/badge/LinuxWorldIndia-Intern-yellow>
-</a>
-<a href=https://www.facebook.com/IIECconnect/>
-   <img src=https://img.shields.io/badge/IIEC_Rise-Trainee-brightgreen>
-</a>
-<br/>
-<a href=https://medium.com/analytics-vidhya/>
-   <img src=https://img.shields.io/badge/Analytics_Vidya-Writer-blue>
-</a>
-<a href=https://www.superdatascience.com/>
-   <img src=https://img.shields.io/badge/SuperDataScience-Writer-blue>
-</a>
+</div>
