@@ -21,6 +21,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lucifergene&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22Lucifergene" /> </p>
 
 * Completed graduation from **KIIT University, Bhubaneswar** in 2022, in Computer Engineering.
+* AWS Certified Solutions Architect
 * Full Stack Developer with Devops and Cloud skills. Currently working at **Red Hat India** as Software Engineer.
 * Active member in AWS Community Builders and Microsoft Learn Ambassadors.
 * Love to give talks in Community events and workshops.
