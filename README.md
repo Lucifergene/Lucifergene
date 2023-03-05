@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Hi, I am Avik Kundu 👋</h1> </p>
+<p align="center"> <h1 align="center"> Hi, I am Avik 👋</h1> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/avik-kundu-0b837715b/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
@@ -6,43 +6,58 @@
  <a href="https://twitter.com/avik6028">
  <img src="http://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
- <a href="https://www.instagram.com/avik6028/">
- <img src="http://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white"/>
- </a>
  <a href="https://avikkundu.medium.com/">
  <img src="http://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=medium&logoColor=white"/>
  </a>
  <a href="https://www.hackerrank.com/avik6028"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
- <a href="https://www.facebook.com/avikonweb"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white"/> </a>
-  <a href="https://www.youtube.com/channel/UCglo4b_lugssHiPz9ZB4iiA?view_as=subscriber"><img src="https://img.shields.io/badge/-Youtube-c4302b?style=for-the-badge&logo=Youtube&logoColor=white"/> </a>
 <a href="mailto:avikkundu8d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lucifergene&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22Lucifergene" /> </p>
 
-* Completed graduation from **KIIT University, Bhubaneswar** in 2022, in Computer Engineering.
+<!-- * Software Engineer @ **RedHat**
 * AWS Certified Solutions Architect
-* Full Stack Developer with Devops and Cloud skills. Currently working at **Red Hat India** as Software Engineer.
-* Active member in AWS Community Builders and Microsoft Learn Ambassadors.
+* Full Stack Developer with Devops and Cloud skills
+* AWS Community Builder
 * Love to give talks in Community events and workshops.
 * Looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 
-***
-**⚙️ &nbsp;GitHub Analytics**
+*** -->
+<!-- ### ⚙️ &nbsp;GitHub Analytics -->
 <table style="width:100%,">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=Lucifergene&show_icons=true&theme=vue&locale=en&hide_border=true" alt="Lucifergene" /></td>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifergene&theme=vue&hide_border=true&layout=compact"></td>
+ <th>About Me 👨‍💻 </th>
+ <th>⚙️ &nbsp;GitHub Analytics</th>
+ <tbody>
+  <tr>   
+<!--  <td><img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifergene&theme=vue&hide_border=true&layout=compact"></td> -->
+   <td>
+    
+* Software Engineer @ **RedHat**
+* AWS Certified Solutions Architect
+* Full Stack Developer with Devops and Cloud skills
+* AWS Community Builder
+* Love to give talks in Community events and workshops.
+* Looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
+   </td>
+    <td> <img width="1000" src="https://github-readme-stats.vercel.app/api?username=Lucifergene&show_icons=true&theme=vue&locale=en&hide_border=true" alt="Lucifergene" /></td>
   </tr>
+  </tbody>
 </table>
 
 ___________________________________________________________________________________________________________________________________
-### Languages I have coded in :
 
-| C/C++ | Python | JavaScript | Go | Java | Dart | LateX | YAML | R
-| :---: | :---:  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Deploy a serverless workload on Kubernetes using Knative and ArgoCD](https://blog.avikkundu.in/deploy-serverless-workload-with-knative)
+- [Using CI/CD to deploy web applications on Kubernetes with ArgoCD](https://blog.avikkundu.in/deploy-to-kubernetes-with-argocd)
+- [My Experience at Civo Hackathon 2021](https://avikkundu.medium.com/my-experience-at-civo-hackathon-2021-aa845e3fa5c2?source=rss-68ea0ef6e857------2)
+- [Building Serverless URL Shortener Service on AWS](https://avikkundu.medium.com/building-serverless-url-shortener-service-on-aws-e1662d015d70?source=rss-68ea0ef6e857------2)
+- [Automation with Ansible Tower Use Cases](https://avikkundu.medium.com/automation-with-ansible-tower-use-cases-5a95e005c207?source=rss-68ea0ef6e857------2)
+- [Automating Jenkins &amp; Docker with Kubernetes](https://avikkundu.medium.com/automating-jenkins-docker-with-kubernetes-40673d3fb907?source=rss-68ea0ef6e857------2)
+<!-- BLOG-POST-LIST:END -->
 ___________________________________________________________________________________________________________________________________
+
 ### Technologies & Frameworks I have worked with :
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -67,16 +82,6 @@ ________________________________________________________________________________
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/35045612?s=400&v=4"></code>
 ___________________________________________________________________________________________________________________________________
 
-### **Blog posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [My Experience at Civo Hackathon 2021](https://avikkundu.medium.com/my-experience-at-civo-hackathon-2021-aa845e3fa5c2?source=rss-68ea0ef6e857------2)
-- [Building Serverless URL Shortener Service on AWS](https://avikkundu.medium.com/building-serverless-url-shortener-service-on-aws-e1662d015d70?source=rss-68ea0ef6e857------2)
-- [Automation with Ansible Tower Use Cases](https://avikkundu.medium.com/automation-with-ansible-tower-use-cases-5a95e005c207?source=rss-68ea0ef6e857------2)
-- [Automating Jenkins &amp; Docker with Kubernetes](https://avikkundu.medium.com/automating-jenkins-docker-with-kubernetes-40673d3fb907?source=rss-68ea0ef6e857------2)
-- [Big Data — Technology or Problem ?](https://avikkundu.medium.com/big-data-technology-or-problem-eb04a2cbe52d?source=rss-68ea0ef6e857------2)
-<!-- BLOG-POST-LIST:END -->
-___________________________________________________________________________________________________________________________________
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
