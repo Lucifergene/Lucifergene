@@ -33,6 +33,7 @@
    <td>
     
 * Software Engineer @ **RedHat**
+* CKAD Certified
 * AWS Certified Solutions Architect
 * Full Stack Developer with Devops and Cloud skills
 * AWS Community Builder
