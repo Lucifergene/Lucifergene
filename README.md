@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/avik-kundu-0b837715b/">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a>
- <a href="https://twitter.com/avik6028">
- <img src="http://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ <a href="https://x.com/avik6028">
+ <img src="http://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
  </a>
- <a href="https://avikkundu.medium.com/">
- <img src="http://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=medium&logoColor=white"/>
+ <a href="https://blog.avikkundu.com/">
+ <img src="http://img.shields.io/badge/Medium-343434?style=for-the-badge&logo=hashnode&logoColor=white"/>
  </a>
  <a href="https://www.hackerrank.com/avik6028"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 <a href="mailto:avikkundu8d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
@@ -15,14 +15,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lucifergene&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22Lucifergene" /> </p>
 
-<!-- * Software Engineer @ **RedHat**
-* AWS Certified Solutions Architect
-* Full Stack Developer with Devops and Cloud skills
-* AWS Community Builder
-* Love to give talks in Community events and workshops.
-* Looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
 
-*** -->
 <!-- ### ⚙️ &nbsp;GitHub Analytics -->
 <table style="width:100%,">
  <th>About Me 👨‍💻 </th>
@@ -32,11 +25,12 @@
 <!--  <td><img width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifergene&theme=vue&hide_border=true&layout=compact"></td> -->
    <td>
     
-* Software Engineer @ **RedHat**
+* Software Engineer **RedHat**
+* Building Developer Portals with **Backstage**
+* Previously worked on **OpenShift**
 * CKAD Certified
 * AWS Certified Solutions Architect
-* Full Stack Developer with Devops and Cloud skills
-* AWS Community Builder
+* Full Stack Developer with AI and Cloud skills
 * Love to give talks in Community events and workshops.
 * Looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
    </td>
@@ -46,18 +40,19 @@
 </table>
 
 ___________________________________________________________________________________________________________________________________
-
+<!-- 
 ### Blog posts
 
-<!-- BLOG-POST-LIST:START -->
+
 - [Deploy a serverless workload on Kubernetes using Knative and ArgoCD](https://blog.avikkundu.in/deploy-serverless-workload-with-knative)
 - [Using CI/CD to deploy web applications on Kubernetes with ArgoCD](https://blog.avikkundu.in/deploy-to-kubernetes-with-argocd)
 - [My Experience at Civo Hackathon 2021](https://avikkundu.medium.com/my-experience-at-civo-hackathon-2021-aa845e3fa5c2?source=rss-68ea0ef6e857------2)
 - [Building Serverless URL Shortener Service on AWS](https://avikkundu.medium.com/building-serverless-url-shortener-service-on-aws-e1662d015d70?source=rss-68ea0ef6e857------2)
 - [Automation with Ansible Tower Use Cases](https://avikkundu.medium.com/automation-with-ansible-tower-use-cases-5a95e005c207?source=rss-68ea0ef6e857------2)
 - [Automating Jenkins &amp; Docker with Kubernetes](https://avikkundu.medium.com/automating-jenkins-docker-with-kubernetes-40673d3fb907?source=rss-68ea0ef6e857------2)
-<!-- BLOG-POST-LIST:END -->
+
 ___________________________________________________________________________________________________________________________________
+
 
 ### Technologies & Frameworks I have worked with :
 
@@ -82,6 +77,7 @@ ________________________________________________________________________________
 <code><img height="20" src="https://www.veritis.com/wp-content/uploads/2019/08/Prometheus.png"></code>
 <code><img height="20" src="https://avatars1.githubusercontent.com/u/35045612?s=400&v=4"></code>
 ___________________________________________________________________________________________________________________________________
+-->
 
 <div align="center">
 
