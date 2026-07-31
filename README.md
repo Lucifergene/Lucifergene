@@ -34,7 +34,7 @@
 * Love to give talks in Community events and workshops.
 * Looking to pursue a challenging career and be part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organisation. 
    </td>
-    <td> <img width="1000" src="https://github-readme-stats.vercel.app/api?username=Lucifergene&show_icons=true&theme=vue&locale=en&hide_border=true" alt="Lucifergene" /></td>
+    <td> <img width="1000" src="https://github-readme-stats-fast.vercel.app/api?username=Lucifergene&show_icons=true&theme=github_dark" alt="Lucifergene" /></td>
   </tr>
   </tbody>
 </table>
