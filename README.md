@@ -26,7 +26,7 @@
    <td>
     
 * Software Engineer **RedHat**
-* Building Developer Portals with **Backstage**
+* Building GenAI Platforms with **OpenShift AI**
 * Previously worked on **OpenShift**
 * CKAD Certified
 * AWS Certified Solutions Architect
